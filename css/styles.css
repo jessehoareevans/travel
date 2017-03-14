@@ -1,0 +1,21 @@
+h1 {
+  font-style: bold;
+  text-align: center;
+  font-size: 60;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  font-size: 40;
+  text-align: center;
+}
+body {
+  /*background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;*/
+  text-align: center;
+  background-color: #f8853a;
+}
+h4 {
+  font-size: 20;
+}
