@@ -1,20 +1,22 @@
 h1 {
   font-style: bold;
   text-align: center;
-  font-size: 60;
+  font-size: 100;
 }
 h2 {
   text-align: center;
+  font-size: 30;
 }
 h3 {
-  font-size: 40;
+  font-size: 60;
   text-align: center;
 }
 body {
   /*background-image: url("../img/background.jpg");
   background-repeat: no-repeat;*/
   text-align: center;
-
+  background-color: #EEDAED;
+  color: #563755;
 }
 h4 {
   font-size: 20;
